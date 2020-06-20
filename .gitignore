@@ -1,0 +1,6 @@
+log.txt
+#Ignores file
+/dir2
+#Ignores directory
+*.txt
+#Ignores all files with that extension
